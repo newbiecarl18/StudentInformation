@@ -1,0 +1,11 @@
+C:\Users\ACT-STUDENT\source\repos\Carl_Student_Information\Carl_Student_Information\bin\Debug\Carl_Student_Information.exe.config
+C:\Users\ACT-STUDENT\source\repos\Carl_Student_Information\Carl_Student_Information\bin\Debug\Carl_Student_Information.exe
+C:\Users\ACT-STUDENT\source\repos\Carl_Student_Information\Carl_Student_Information\bin\Debug\Carl_Student_Information.pdb
+C:\Users\ACT-STUDENT\source\repos\Carl_Student_Information\Carl_Student_Information\obj\Debug\Carl_Student_Information.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\source\repos\Carl_Student_Information\Carl_Student_Information\obj\Debug\Carl_Student_Information.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACT-STUDENT\source\repos\Carl_Student_Information\Carl_Student_Information\obj\Debug\Carl_Student_Information.Form1.resources
+C:\Users\ACT-STUDENT\source\repos\Carl_Student_Information\Carl_Student_Information\obj\Debug\Carl_Student_Information.Properties.Resources.resources
+C:\Users\ACT-STUDENT\source\repos\Carl_Student_Information\Carl_Student_Information\obj\Debug\Carl_Student_Information.csproj.GenerateResource.cache
+C:\Users\ACT-STUDENT\source\repos\Carl_Student_Information\Carl_Student_Information\obj\Debug\Carl_Student_Information.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\source\repos\Carl_Student_Information\Carl_Student_Information\obj\Debug\Carl_Student_Information.exe
+C:\Users\ACT-STUDENT\source\repos\Carl_Student_Information\Carl_Student_Information\obj\Debug\Carl_Student_Information.pdb
