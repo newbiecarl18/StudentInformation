@@ -21,14 +21,6 @@ namespace Arriola_MealOrderForm
         {
             LoadMainDishes();
             LoadPrices();
-
-            // Option 1: Allow typing and autocomplete
-            cmb_MainDish.DropDownStyle = ComboBoxStyle.DropDown;
-            cmb_MainDish.AutoCompleteMode = AutoCompleteMode.SuggestAppend;
-            cmb_MainDish.AutoCompleteSource = AutoCompleteSource.ListItems;
-
-            // Option 2: Keep as DropDownList, but disable autocomplete
-            cmb_MainDish.AutoCompleteMode = AutoCompleteMode.None;
         }
 
         private void LoadMainDishes()
@@ -94,6 +86,7 @@ namespace Arriola_MealOrderForm
             AddAddOns();
             AddDineOption();
             AddPaymentMethod();
+    
 
             lst_Order.Items.Add("----------------------");
             lst_Order.Items.Add($"TOTAL: ₱{totalAmount}");
@@ -174,8 +167,12 @@ namespace Arriola_MealOrderForm
         {
             string summary = string.Join("\n", lst_Order.Items.Cast<string>());
             MessageBox.Show(summary, "Order Summary");
-        }
 
+            lst_Order.Items.Clear();
+        }
+        
+        
+        
         private void btn_Send_Click(object sender, EventArgs e)
 
         {
@@ -197,6 +194,11 @@ namespace Arriola_MealOrderForm
             lst_Order.Items.Add(note);
             txt_InputBox.Clear();
             txt_InputBox.Focus();
+            
+           ResetInputs();
+            cmb_MainDish.SelectedIndex = -1;
+
+
         }
 
         private void btn_Remove_Click(object sender, EventArgs e)
@@ -249,23 +251,11 @@ namespace Arriola_MealOrderForm
             }
 
             // Show one message if any protected items were skipped
-            if (skippedProtected)
-            {
-                MessageBox.Show("Some protected items were not deleted.",
-                                "Notice",
-                                MessageBoxButtons.OK,
-                                MessageBoxIcon.Information);
-            }
+            
         }
-
-
-        private void txt_InputBox_KeyDown(object sender, KeyEventArgs e)
+        private void lst_Order_SelectedIndexChanged(object sender, EventArgs e)
         {
-            if (e.KeyCode == Keys.Enter)
-            {
-                e.SuppressKeyPress = true; // stops the beep / new line
-                btn_Send.PerformClick();   // acts like clicking Send
-            }
+       
         }
 
         private void btn_Clear_Click(object sender, EventArgs e)

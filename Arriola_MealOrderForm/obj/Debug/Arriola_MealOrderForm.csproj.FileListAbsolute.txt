@@ -29,3 +29,13 @@ C:\Users\ACT-STUDENT\Desktop\Arriola_MealOrderForm\obj\Debug\Arriola_MealOrderFo
 C:\Users\ACT-STUDENT\Desktop\Arriola_MealOrderForm\bin\Debug\Arriola_MealOrderForm.exe.config
 C:\Users\ACT-STUDENT\Desktop\Arriola_MealOrderForm\bin\Debug\Arriola_MealOrderForm.exe
 C:\Users\ACT-STUDENT\Desktop\Arriola_MealOrderForm\bin\Debug\Arriola_MealOrderForm.pdb
+C:\Users\DNTS\Desktop\StudentInformation-main\Arriola_MealOrderForm\bin\Debug\Arriola_MealOrderForm.exe.config
+C:\Users\DNTS\Desktop\StudentInformation-main\Arriola_MealOrderForm\bin\Debug\Arriola_MealOrderForm.exe
+C:\Users\DNTS\Desktop\StudentInformation-main\Arriola_MealOrderForm\bin\Debug\Arriola_MealOrderForm.pdb
+C:\Users\DNTS\Desktop\StudentInformation-main\Arriola_MealOrderForm\obj\Debug\Arriola_MealOrderForm.csproj.AssemblyReference.cache
+C:\Users\DNTS\Desktop\StudentInformation-main\Arriola_MealOrderForm\obj\Debug\Arriola_MealOrderForm.frm_MealOrder.resources
+C:\Users\DNTS\Desktop\StudentInformation-main\Arriola_MealOrderForm\obj\Debug\Arriola_MealOrderForm.Properties.Resources.resources
+C:\Users\DNTS\Desktop\StudentInformation-main\Arriola_MealOrderForm\obj\Debug\Arriola_MealOrderForm.csproj.GenerateResource.cache
+C:\Users\DNTS\Desktop\StudentInformation-main\Arriola_MealOrderForm\obj\Debug\Arriola_MealOrderForm.csproj.CoreCompileInputs.cache
+C:\Users\DNTS\Desktop\StudentInformation-main\Arriola_MealOrderForm\obj\Debug\Arriola_MealOrderForm.exe
+C:\Users\DNTS\Desktop\StudentInformation-main\Arriola_MealOrderForm\obj\Debug\Arriola_MealOrderForm.pdb

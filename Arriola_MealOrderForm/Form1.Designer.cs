@@ -99,7 +99,7 @@
             this.btn_Clear.TabIndex = 4;
             this.btn_Clear.Text = "Clear";
             this.btn_Clear.UseVisualStyleBackColor = false;
-            
+            this.btn_Clear.Click += new System.EventHandler(this.btn_Clear_Click);
             // 
             // btn_Remove
             // 
@@ -143,6 +143,7 @@
             this.lst_Order.SelectionMode = System.Windows.Forms.SelectionMode.MultiExtended;
             this.lst_Order.Size = new System.Drawing.Size(333, 365);
             this.lst_Order.TabIndex = 0;
+            this.lst_Order.SelectedIndexChanged += new System.EventHandler(this.lst_Order_SelectedIndexChanged);
             // 
             // gb_DineOption
             // 
@@ -261,6 +262,7 @@
             // cmb_MainDish
             // 
             this.cmb_MainDish.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.cmb_MainDish.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmb_MainDish.FormattingEnabled = true;
             this.cmb_MainDish.Location = new System.Drawing.Point(395, 142);
             this.cmb_MainDish.Name = "cmb_MainDish";
