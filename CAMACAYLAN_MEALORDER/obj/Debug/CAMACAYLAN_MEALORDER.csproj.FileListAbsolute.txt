@@ -1,0 +1,11 @@
+C:\Users\ACT-STUDENT\Desktop\CAMACAYLAN_MEALORDER\bin\Debug\Arriola_MealOrderForm.exe.config
+C:\Users\ACT-STUDENT\Desktop\CAMACAYLAN_MEALORDER\bin\Debug\Arriola_MealOrderForm.exe
+C:\Users\ACT-STUDENT\Desktop\CAMACAYLAN_MEALORDER\bin\Debug\Arriola_MealOrderForm.pdb
+C:\Users\ACT-STUDENT\Desktop\CAMACAYLAN_MEALORDER\obj\Debug\CAMACAYLAN_MEALORDER.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\CAMACAYLAN_MEALORDER\obj\Debug\Arriola_MealOrderForm.frm_MealOrder.resources
+C:\Users\ACT-STUDENT\Desktop\CAMACAYLAN_MEALORDER\obj\Debug\Arriola_MealOrderForm.Properties.Resources.resources
+C:\Users\ACT-STUDENT\Desktop\CAMACAYLAN_MEALORDER\obj\Debug\CAMACAYLAN_MEALORDER.csproj.GenerateResource.cache
+C:\Users\ACT-STUDENT\Desktop\CAMACAYLAN_MEALORDER\obj\Debug\CAMACAYLAN_MEALORDER.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\CAMACAYLAN_MEALORDER\obj\Debug\Arriola_MealOrderForm.exe
+C:\Users\ACT-STUDENT\Desktop\CAMACAYLAN_MEALORDER\obj\Debug\Arriola_MealOrderForm.pdb
+C:\Users\ACT-STUDENT\Desktop\CAMACAYLAN_MEALORDER\obj\Debug\Arriola_MealOrderForm.exe.config
